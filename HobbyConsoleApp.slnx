@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HobbyConsoleApp.vcxproj" Id="5ffdf01e-e223-42f7-970e-90d9dae56213" />
+</Solution>
