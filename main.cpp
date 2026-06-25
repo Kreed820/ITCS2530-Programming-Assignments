@@ -12,6 +12,7 @@ int main()
     int hoursPerWeek;
 
     // Ask user questions
+    //i think it finally works
     cout << "What is your favorite automotive brand? ";
     cin >> favoriteBrand;
 
