@@ -1,0 +1,11 @@
+===== Restoration Summary Report =====
+Item                               Value
+----------------------------------------
+Name                                   g
+Brand                                  e
+Tool                                   r
+Emblems Restored                       2
+Hours Per Emblem                    3.00
+Cost Per Emblem                       $4.00
+Total Hours                         6.00
+Total Cost                            $8.00
