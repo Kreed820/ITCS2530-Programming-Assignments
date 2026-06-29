@@ -91,7 +91,7 @@ double getPositiveDouble(string prompt)
     {
         cin.clear();
         cin.ignore(1000, '\n');
-        cout << "Invalid input. Enter a positive number: ";
+        cout << "Invalid input. Enter a positive number:  ";
         cin >> number;
     }
 
@@ -154,7 +154,7 @@ double getPositiveDoubleAlt(string prompt, double weekNum)
     {
         cin.clear();
         cin.ignore(1000, '\n');
-        cout << "Invalid input. Enter a positive number: ";
+        cout << "Invalid input. Enter a positive number:  ";
         cin >> number;
     }
 
